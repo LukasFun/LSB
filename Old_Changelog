@@ -1,0 +1,12 @@
+This file logs changes prior to the repository.
+
+- 2025-08-03:	Added functionality to scroll using the mouse wheel/touchpad and arrow keys
+				Changed date ordering to international layout
+- 2025-07-21:	Added functionality to remove a player from a scene
+- 2024-05-13:	Added functionatity to match the volume slider initial value to the loaded settings 
+- 2024-05-08:	Added functionality to scroll in a scene,
+				Added functionality to save settings to a file
+- 2024-05-05:	Fixed a bug that caused a crash when not selecting a file when loading settings
+- 2024-04-26:	Completed base and functionality for loading settings from a file
+- 2024-04-09:	Started developing functionality to add players to a scene
+- 2023-12-25:	Started development
